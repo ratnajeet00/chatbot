@@ -9,7 +9,7 @@ def load_conversation_data(file_path):
 # Generate a response using Google Gemini API
 def generate_response(prompt):
     GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent"
-    API_KEY = 'AIzaSyDPdMFZWCmCIkUGlA8CW9t26uYb5DuNwQY'  # Replace with your actual API key
+    API_KEY = 'API_KEY_HERE'  # Replace with your actual API key
 
     headers = {
         "Content-Type": "application/json",
