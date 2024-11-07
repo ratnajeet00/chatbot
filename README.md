@@ -8,7 +8,7 @@ This chatbot project enables interaction with a conversational AI powered by the
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [License](#license)
+
 
 ## Features
 
